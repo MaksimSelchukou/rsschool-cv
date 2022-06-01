@@ -1,2 +1,1 @@
-# rsschool-cv
-Markdown
+https://MaksimSelchukou.github.io/rsschool-cv/cv
