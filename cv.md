@@ -23,7 +23,7 @@ _I am glad that programming has entered my life and every day learning new thing
 
 _I Designed several one-page sites, performed a number of react tasks. Developed a couple of SPA applications_
 
-[Мои работы,жми сюда!](https://hexlet.io)
+[Мои работы,жми сюда!](https://github.com/MaksimSelchukou)
 
 ### Education and courses
 
