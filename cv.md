@@ -21,7 +21,9 @@ _I am glad that programming has entered my life and every day learning new thing
 
 ### My Projects
 
-_I Designed several one-page sites, performed a number of react tasks. Developed a couple of SPA applications_ [Мои работы,жми сюда!](https://hexlet.io)
+_I Designed several one-page sites, performed a number of react tasks. Developed a couple of SPA applications_
+
+[Мои работы,жми сюда!](https://hexlet.io)
 
 ### Education and courses
 
@@ -37,7 +39,7 @@ _I Designed several one-page sites, performed a number of react tasks. Developed
 
 **1**.Russian - native
 
-**2**.Inglish - A1(elementary)
+**2**.English - A1(elementary)
 
 ---
 
