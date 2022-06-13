@@ -1,1 +1,1 @@
-https://MaksimSelchukou.github.io/rsschool-cv-html/
+https://maksimselchukou.github.io/rsschool-cv/
