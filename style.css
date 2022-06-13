@@ -1,0 +1,184 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+p {
+  color: black;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* label {
+  display: inline-block;
+} */
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  font-family: 'Joan', serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 15px;
+  color: white;
+  min-height: 100vh;
+}
+
+/* .header,
+.main,
+.footer {
+  border: 1px solid red;
+} */
+
+.header {
+  max-height: 138px;
+}
+
+.header__avatar {
+  margin-left: 20px;
+  width: 160px;
+  height: 138px;
+  border-radius: 60px;
+}
+
+.header__inner {
+  display: flex;
+  justify-content: space-between;
+  background-color: #1b1c37;
+}
+
+.header__description {
+  color: white;
+  font-size: 24px;
+  line-height: 24px;
+  text-align: center;
+  margin: auto 0;
+}
+.header__description__innertext {
+  color: white;
+  font-size: 15px;
+  line-height: 15px;
+  margin-top: 10px;
+}
+
+.container {
+  max-width: 1220px;
+  margin: 0 auto;
+  padding: 0 10px;
+  /* background-color: aqua; */
+}
+
+.nav {
+  margin-right: 50px;
+}
+
+.nav__list {
+  display: flex;
+}
+
+.nav__item + .nav__item {
+  padding-left: 10px;
+}
+
+.nav__link {
+  color: white;
+  padding: 0 10px;
+  line-height: 50px;
+  transition: all 0.2s;
+}
+
+.nav__link:hover {
+  background-color: white;
+  border-radius: 10px;
+  color: black;
+}
+
+/* contacts */
+
+.section {
+  margin-top: 20px;
+}
+
+/* .section {
+  color: black;
+} */
+
+.section__text {
+  color: black;
+  /* margin-bottom: 8px; */
+  line-height: 1.5;
+}
+
+.section__contacts {
+  margin-top: 30px;
+}
+.contacts__inner {
+  color: white;
+}
+
+.contacts__inner__title {
+  display: inline-block;
+  background-color: #1b1c37;
+  padding: 6px 12px;
+  margin: 7px 0;
+}
+
+.section__text__li {
+  margin-left: 15px;
+}
+
+.section__skills {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+
+.container__skills {
+  display: flex;
+}
+
+.wrapper + .wrapper {
+  margin-left: 30px;
+}
+
+.link {
+  font-size: 20px;
+  color: rgb(87, 25, 25);
+}
+
+.code {
+  color: black;
+  margin-top: 20px;
+}
+
+.footer {
+  margin-top: 20px;
+}
+
+.container__footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1b1c37;
+  min-height: 50px;
+}
+
+.rslogo {
+  width: 40px;
+  height: 40px;
+}
